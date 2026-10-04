@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
     <meta charset="UTF-8">
@@ -391,7 +390,7 @@
             storeInfo: {
                 name: 'TechStore Inovasi',
                 whatsapp: '6281234567890',
-                address: 'Pusat Elektronik Terkini, Jakarta'
+                address: 'Pusat Elektronik Terkini, Sukagumiwang'
             },
             banners: [],
             products: [],
